@@ -8,8 +8,6 @@ on:
     
 env:
   REPO_NAME: xushengbin/ubuntu-networking
-  DOCKER_USER: xushengbin
-  DOCKER_PASSWORD: Zhen1226
 
 jobs:
 
